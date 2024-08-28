@@ -100,7 +100,6 @@ CUDA_VISIBLE_DEVICES=0,5 python -m torch.distributed.launch --nproc_per_node=2 -
 ```
 
 ## Acknowledgements
-- [3DMatch]()
 - [PREDATOR](https://github.com/prs-eth/OverlapPredator)
 - [CoFiNet](https://github.com/haoyu94/Coarse-to-fine-correspondences)
 - [GeoTransformer](https://github.com/qinzheng93/GeoTransformer)
