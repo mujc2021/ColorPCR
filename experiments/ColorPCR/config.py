@@ -32,7 +32,7 @@ ensure_dir(_C.registration_dir)
 
 # data
 _C.data = edict()
-_C.data.dataset_root = '/home2/mujuncheng/my_data'
+_C.data.dataset_root = '../../dataset'
 
 # train data
 _C.train = edict()
