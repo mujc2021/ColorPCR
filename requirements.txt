@@ -1,0 +1,16 @@
+numpy
+scipy
+tqdm
+coloredlogs
+easydict
+nibabel
+scikit-learn
+einops
+ipdb
+tensorboard
+tensorboardX
+scikit-image
+matplotlib
+addict
+plyfile
+pandas
